@@ -8,7 +8,7 @@
 
 
 <br></br>
-## Used Kexts:
+# Used Kexts:
 ### AppleALC
 ### IntelMausi
 ### Lilu
@@ -18,3 +18,14 @@
 ### USBPorts
 ### VirtualSMC
 ### WhateverGreen
+
+<br></br>
+
+# Working MacOS:
+### Monterey
+
+<br></br>
+
+#Planned Tests:
+### Ventura install
+### Sonoma install
