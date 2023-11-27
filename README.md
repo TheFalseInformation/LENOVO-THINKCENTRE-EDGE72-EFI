@@ -27,5 +27,6 @@
 <br></br>
 
 # Planned Tests:
-### Ventura install
-### Sonoma install
+### BigSur
+### Ventura
+### Sonoma
