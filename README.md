@@ -7,10 +7,8 @@
 </p>
 
 
-
-<br></br>
-<p align="center">
-  # Used Kexts:
+<br>
+# Used Kexts:
 ### AppleALC
 ### IntelMausi
 ### Lilu
@@ -20,4 +18,3 @@
 ### USBPorts
 ### VirtualSMC
 ### WhateverGreen
-</p>
