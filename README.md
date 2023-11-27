@@ -8,7 +8,7 @@
 
 
 <br></br>
-## Used Kexts:
+# Used Kexts:
 ### AppleALC
 ### IntelMausi
 ### Lilu
