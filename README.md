@@ -8,8 +8,6 @@
 
 <br></br>
 
-<h1 align="center">ISSUE: NOT ALL KEXTS ARE SUPPORTED. TRY TO RUN OLARILA EFI FOR IVYBRIDGE</h1>
-
 <br></br>
 # Used Kexts:
 ### AppleALC
@@ -33,8 +31,3 @@
 ### BigSur
 ### Ventura
 ### Sonoma
-
-<br></br>
-
-# Note:
-### EFI doesn't work when starting from this EFI installation.
