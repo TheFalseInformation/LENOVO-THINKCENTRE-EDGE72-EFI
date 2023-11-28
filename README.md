@@ -24,10 +24,10 @@
 
 # Working MacOS:
 ### Monterey
+### BigSur
 
 <br></br>
 
 # Planned Tests:
-### BigSur
 ### Ventura
 ### Sonoma
