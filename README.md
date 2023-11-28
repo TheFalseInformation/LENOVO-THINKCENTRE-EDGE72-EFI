@@ -36,5 +36,5 @@
 
 <br></br>
 
-# Instructions:
-### EFI doesn't work when starting from this EFI installation. Only copy after installation to system.
+# Note:
+### EFI doesn't work when starting from this EFI installation.
