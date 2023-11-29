@@ -40,3 +40,7 @@
 # Planned Tests:
 ### Ventura
 ### Sonoma
+
+<br></br>
+# Notes:
+### If you put the EFI on the main hard disk, there may be problems with booting from the Drive.
