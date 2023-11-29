@@ -8,12 +8,12 @@
 
 <br></br>
 
-<h1 align="center">Specs:</h1>
-### CPU: i5-3470S 2,90GHz 4 Cores 4 Threads
-### RAM: G.Skill DIMM 8 GB DDR3-1333 (2x 4 GB)
-### STORAGE: 128GB Toshiba SSD + 320GB Samsung HDD
-### PSU: 400W Codegen
-### DVD: Lenovo DVD Drive
+# Specs:
+## CPU: i5-3470S 2,90GHz 4 Cores 4 Threads
+## RAM: G.Skill DIMM 8 GB DDR3-1333 (2x 4 GB)
+## STORAGE: 128GB Toshiba SSD + 320GB Samsung HDD
+## PSU: 400W Codegen
+## DVD: Lenovo DVD Drive
 
 <br></br>
 
