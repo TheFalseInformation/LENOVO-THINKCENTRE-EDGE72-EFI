@@ -34,10 +34,6 @@
 # Working MacOS:
 ### Monterey
 ### BigSur
-
-<br></br>
-
-# Planned Tests:
 ### Ventura
 ### Sonoma
 
