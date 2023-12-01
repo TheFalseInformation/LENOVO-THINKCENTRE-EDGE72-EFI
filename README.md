@@ -34,8 +34,6 @@
 # Working MacOS:
 ### Monterey
 ### BigSur
-### Ventura
-### Sonoma
 
 <br></br>
 # Notes:
