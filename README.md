@@ -10,7 +10,7 @@
 
 # Specs:
 ### CPU: i5-3470S 2,90GHz 4 Cores 4 Threads
-### GPU: XFX Radeon HD 5870 1GB (iGPU won't work), UPGRADED: Saphire RX 570 8GB
+### GPU: XFX Radeon HD 5870 1GB (iGPU won't work), UPGRADED: Sapphire RX 570 8GB
 ### RAM: G.Skill DIMM 8 GB DDR3-1333 (2x 4 GB)
 ### STORAGE: 128GB Toshiba SSD + 320GB Samsung HDD
 ### PSU: 400W Codegen
